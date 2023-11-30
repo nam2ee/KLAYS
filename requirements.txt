@@ -30,7 +30,6 @@ protobuf==4.25.1
 pycryptodome==3.19.0
 python-dotenv==1.0.0
 pytz==2023.3.post1
-pywin32==306
 referencing==0.31.0
 regex==2023.10.3
 requests==2.31.0
